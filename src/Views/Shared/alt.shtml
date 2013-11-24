@@ -1,0 +1,15 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Platform</title>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" />
+</head>
+<body style="background:#ffc;">
+    <h1>Alternate Template!!</h1>
+
+    <h4>Body:</h4>
+    <!--@Body-->
+</body>
+</html>

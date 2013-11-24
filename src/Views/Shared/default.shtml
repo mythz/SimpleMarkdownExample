@@ -1,0 +1,16 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Platform</title>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" />
+    <!-- blah blah tons of meta and css blah -->
+</head>
+<body>
+    <h1>Simple Markdown Razor Example</h1>
+
+    <h4>Body:</h4>
+    <!--@Body-->
+</body>
+</html>
